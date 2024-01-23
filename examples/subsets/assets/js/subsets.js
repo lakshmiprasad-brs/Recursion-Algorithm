@@ -1,17 +1,4 @@
-/** 
-Author : Build Rise Shine 
 
-Created : 2023 
-
-Script : Subsets
-
-Description : write an algorithm to return the subsets for the given array of integers
-
-    Given an integer array nums of unique elements, return all possible subsets (the power set).
-    return the answer in any order. No duplicate subsets allowed.
-
-(c) Copyright by BRS Studio. 
-**/
 
 // Constraints for the algorithm
 // 1 <= nums.length <= 10
